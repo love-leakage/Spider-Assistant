@@ -1,0 +1,6 @@
+vosk
+PyAudio
+Flask
+requests
+websockets
+python-dotenv
